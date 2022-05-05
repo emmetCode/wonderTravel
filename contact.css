@@ -1,0 +1,180 @@
+    /*Panel Start*/
+.panel{
+    background-color: white;
+    display: block;
+    box-sizing: border-box;
+    padding:10px;
+}
+
+.panel img{
+    padding-left: 50px;
+    width: 188;
+    height: 19;
+}
+
+.panel i{
+    color: rgb(117, 230, 245);
+    font-size: 20px;
+    padding-left: 10px;
+    position: relative;
+    bottom: -11px;
+}
+.panel b{
+    padding-left: 10px;
+    position: relative;
+    bottom: -10px;
+    padding-right: 20px;
+    font-weight: lighter;
+}
+
+.panel button{
+    border: 2px solid skyblue;
+    color: black;
+    background-color: white;
+    height: 1cm;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-right: 20px;
+}
+
+.panel button:hover{
+    background-color: black;
+    color: white;
+}
+/*panel end*/
+
+/*sight header start*/
+.header{
+    text-align: center;
+    background-color: #162e44;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.header a{
+    padding-left: 60px;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.header a:hover{
+    color: skyblue;
+}
+/*Sight header end*/
+
+/*Contact Details*/
+.contact-details{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.contact-details h2{
+    color: black;
+    font-weight: lighter;
+    padding-top: 15px;
+    font-size: larger;
+}
+
+.ct-dtl{
+    border: 1px solid rgb(173, 167, 167);
+    padding: 50px 0px;
+}
+
+.ct-dtl:hover{
+    box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.2);
+    border: 0px;
+}
+/*Contact Details*/
+
+/*Contact Form*/
+
+.contact-form{
+    margin-bottom: 100px;
+}
+.contact-form h1{
+    font-weight: bold;
+    float: left;
+    font-size: 30px;
+    padding-right: 15px;
+    border-right: 1px solid gray;
+}
+
+.contact-form p{
+    padding-left: 210px;
+    font-size: 20px;
+}
+
+.contact-form input{
+    width: 100%;
+    height: 1.5cm;
+    background-color: whitesmoke;
+    border: 0px;
+    padding-left: 10px;
+}
+
+.contact-form form{
+    margin-top: 40px;
+}
+
+.contact-form textarea{
+    margin-top: 15px;
+    width: 100%;
+    background-color: whitesmoke;
+    border: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.contact-form button{
+    background-color: teal;
+    color: white;
+    height: 1.5cm;
+    width: 5cm;
+    border: 0px;
+    position: relative;
+    right: -20px;
+}
+/*Contact Form end*/
+/*Contact Us End*/
+
+/*Sight Footer Start*/
+.footer{
+    background-color: rgb(22, 46, 68);
+    color: white;
+    padding-top: 50px;
+}
+
+.footer h6{
+    color: white;
+    font-weight: 500;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.footer i{
+    color: teal;
+    font-size: 20px;
+}
+
+.footer p{
+    color: gray;
+    font-size: 13px;
+}
+
+.footer li{
+    position: relative;
+    left: -20px;
+}
+
+.footer button{
+    background-color: teal;
+    color: white;
+    border: 0px;
+    height: 1.5cm;
+    width: 4cm;
+    position: relative;
+    right: -20px;
+}
+/*Sight header*/
